@@ -6592,5 +6592,12 @@
     "author": "yildbs",
     "description": "This plugin is used to draw the harada method. Create your own 1 goal, 8 plans, and 64 actions!",
     "repo": "yildbs/obsidian-harada-method-plugin"
+  },
+  {
+    "id": "book-info",
+    "name": "Book Info",
+    "author": "yildbs",
+    "description": "Search YES24 for book metadata and create template-based book notes with covers.",
+    "repo": "yildbs/obsidian-book-info-plugin"
   }
 ]
